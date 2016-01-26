@@ -1,0 +1,13 @@
+{
+"netMode":1,
+"sendLog":1,
+"COMPort":"COM1",
+"baudrate":9600,
+"remoteIp":"115.159.39.71",
+"remotePort":"21108",
+"serverIp":"115.159.39.71",
+"serverPort": 21107,
+"timer":60,
+"appid":"CTRL",
+"httpPort":12032
+}
